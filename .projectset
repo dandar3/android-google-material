@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-google-material/tags/1.0.0,google-material,707b648cfe24001a1746b9f2272c455f;https://github.com/dandar3/android-google-material;https://github.com/dandar3/android-google-material;branches;tags;trunk;true;21b2422c-cd1a-7226-c971-ce57b7db7bff;https://github.com/dandar3/android-google-material;;false;;;0"/>
+</provider>
+</psf>
