@@ -4,5 +4,14 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-annotation"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-appcompat"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-cardview"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-fragment"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-legacy-support-core-ui"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-legacy-support-core-utils"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-recyclerview"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-transition"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
